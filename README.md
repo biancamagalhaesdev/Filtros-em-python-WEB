@@ -1,0 +1,1 @@
+Atividade final avaliativa da disciplina Laboratório de Programação em Python com desenvolvimento básico web. Com esse trabalho foi possível explorar um pouco o que pode ser feito com HTML e CSS, bem como a tentativa (falha) de upar como site.
